@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product B",
+      "img": "abc.jpg",
+      "price": 500,
+      "desc": "abcdefgh"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "img": "abc.jpg",
+      "price": 500,
+      "desc": "abcdefgh"
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "img": "abc.jpg",
+      "price": 500,
+      "desc": "abcdefgh"
+    },
+    {
+      "name": "product_a",
+      "img": "https://webaffiliatevn.com/storage/2020/08/IMGLOGO_Primary_CMYK_Blue_Rel_webready.jpg",
+      "price": "500000",
+      "desc": "aaaaaaaaa",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "email": "nguyenvantram@gmail.com",
+      "password": "$2a$10$0VfRahc9XeBthfaFMWWlj.c.dEPSnIf9VejqUqUEWgW8IsQh7jytO",
+      "name": "Nguyễn Văn Trăm",
+      "id": 1
+    }
+  ]
+}
